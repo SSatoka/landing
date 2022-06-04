@@ -1,0 +1,23 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.container p {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.container a {
+  background-color: rgb(212, 16, 243);
+  border-radius: 4px;
+  color: rgb(212, 16, 243);
+  padding: 15px 20px;
+  transition: background-color 1s;
+  margin-top: 30px;
+  border-radius: 50px;
+}
+
+.container a:hover {
+  background-color: #fbeb05;
+}
